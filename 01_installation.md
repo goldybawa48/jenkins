@@ -5,7 +5,7 @@
 
 ## Installation
 
-- we can run the jenkins with docker or with manual installation.
+- we can run the jenkins with docker or with manual installation. But i recomend to install jenkins with bash to learning better.
 
 ### 1. By Using Bash
 
